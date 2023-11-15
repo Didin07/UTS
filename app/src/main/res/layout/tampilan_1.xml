@@ -1,0 +1,158 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		tampilan_1
+	 *	@date 		Tuesday 14th of November 2023 07:33:03 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/tampilan_1" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_tampilan_1_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg___tampilan_1_ek2"
+					android:background="@drawable/_bg___tampilan_1_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="411dp"
+					android:layout_height="731dp" />
+
+				<ImageView android:id="@+id/rectangle_1"
+					android:src="@drawable/rectangle_1"
+					android:contentDescription="rectangle_1"
+					 android:layout_marginStart="51dp"
+					android:layout_marginTop="405.7dp"
+					android:layout_width="327.96dp"
+					android:layout_height="56.3dp" />
+
+				<ImageView android:id="@+id/polygon_1"
+					android:src="@drawable/polygon_1"
+					android:contentDescription="polygon_1"
+					 android:layout_marginStart="323dp"
+					android:layout_marginTop="423dp"
+					android:layout_width="31dp"
+					android:layout_height="16dp" />
+
+				<TextView android:id="@+id/store"
+					android:textStyle="bold"
+					android:textSize="20sp"
+					android:textColor="@color/store_color"
+					android:layout_marginLeft="57.16dp"
+					android:layout_marginTop="377dp"
+					android:layout_width="77.64dp"
+					android:layout_height="35.67dp"
+					android:text="@string/store_string"
+					 />
+
+				<TextView android:id="@+id/cihampelas"
+					android:textSize="16sp"
+					android:textColor="@color/cihampelas_color"
+					android:layout_marginLeft="63.61dp"
+					android:layout_marginTop="422.19dp"
+					android:layout_width="264.89dp"
+					android:layout_height="34.27dp"
+					android:text="@string/cihampelas_string"
+					 />
+
+				<ImageView android:id="@+id/rectangle_3"
+					android:src="@drawable/rectangle_3"
+					android:contentDescription="rectangle_3"
+					 android:layout_marginStart="51dp"
+					android:layout_marginTop="453.7dp"
+					android:layout_width="327.96dp"
+					android:layout_height="56.3dp" />
+
+				<TextView android:id="@+id/your_name"
+					android:textStyle="bold"
+					android:textSize="20sp"
+					android:textColor="@color/your_name_color"
+					android:layout_marginLeft="57dp"
+					android:layout_marginTop="529dp"
+					android:layout_width="206dp"
+					android:layout_height="36dp"
+					android:text="@string/your_name_string"
+					 />
+
+				<ImageView android:id="@+id/rectangle_4"
+					android:src="@drawable/rectangle_4"
+					android:contentDescription="rectangle_4"
+					 android:layout_marginStart="51dp"
+					android:layout_marginTop="559.7dp"
+					android:layout_width="327.96dp"
+					android:layout_height="56.3dp" />
+
+				<ImageView android:id="@+id/_rectangle_5"
+					android:src="@drawable/_rectangle_5"
+					android:contentDescription="_rectangle_5"
+					 android:layout_marginStart="51dp"
+					android:layout_marginTop="637dp"
+					android:layout_width="327.96dp"
+					android:layout_height="56.3dp" />
+
+				<TextView android:id="@+id/submit"
+					android:textStyle="bold"
+					android:textSize="20sp"
+					android:textColor="@color/_bg___tampilan_1_ek2_color"
+					android:layout_marginLeft="173dp"
+					android:layout_marginTop="650dp"
+					android:layout_width="82dp"
+					android:layout_height="29dp"
+					android:text="@string/submit_string"
+					 />
+
+				<TextView android:id="@+id/please_fill_your_name"
+					android:textStyle="bold"
+					android:textSize="16sp"
+					android:textColor="@color/please_fill_your_name_color"
+					android:layout_marginLeft="64dp"
+					android:layout_marginTop="577dp"
+					android:layout_width="165.6dp"
+					android:layout_height="23.6dp"
+					android:text="@string/please_fill_your_name_string"
+					 />
+
+				<TextView android:id="@+id/cibiru"
+					android:textSize="16sp"
+					android:textColor="@color/cihampelas_color"
+					android:layout_marginLeft="63.61dp"
+					android:layout_marginTop="470.19dp"
+					android:layout_width="264.89dp"
+					android:layout_height="34.27dp"
+					android:text="@string/cibiru_string"
+					 />
+
+				<ImageView android:id="@+id/rm_pizza_1"
+					android:src="@drawable/rm_pizza_1"
+					android:contentDescription="rm_pizza_1"
+					 android:layout_marginStart="100dp"
+					android:layout_marginTop="55dp"
+					android:layout_width="223dp"
+					android:layout_height="264dp" />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

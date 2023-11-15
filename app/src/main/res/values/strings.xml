@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- tampilan_1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="store_string">Store</string>
+	<string name="cihampelas_string">Cihampelas</string>
+	<string name="your_name_string">Your Name</string>
+	<string name="submit_string">Submit</string>
+	<string name="please_fill_your_name_string">Please fill your name</string>
+	<string name="cibiru_string">Cibiru</string>
+</resources>
